@@ -1,0 +1,15 @@
+
+[
+  {
+    "name": "Black Jack Game",
+    "live": "http://timiscarrington.github.io/Project_1_BlackJack/",
+    "git": "https://github.com/timiscarrington/Project_1_BlackJack",
+    "image": "https://i.imgur.com/WYoDLy2.jpeg"
+  },
+  {
+    "name": "Personal Dashboard",
+    "live": "https://deploy-preview-25--mypersonaldashboard.netlify.app/",
+    "git": "https://github.com/jbg2023/personal_dashboard",
+    "image": "https://i.imgur.com/dSIvHkD.png"
+  }
+]
